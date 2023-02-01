@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\bin\Debug\net6.0\Les2Zd-15.exe
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\bin\Debug\net6.0\Les2Zd-15.deps.json
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\bin\Debug\net6.0\Les2Zd-15.runtimeconfig.json
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\bin\Debug\net6.0\Les2Zd-15.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\bin\Debug\net6.0\Les2Zd-15.pdb
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\refint\Les2Zd-15.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.pdb
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\Les2Zd-15.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les2Zd-15\obj\Debug\net6.0\ref\Les2Zd-15.dll
