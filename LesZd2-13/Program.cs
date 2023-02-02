@@ -8,20 +8,23 @@ Console.Clear();
 Console.Write("Введите число: ");
 int n = int.Parse(Console.ReadLine()!);
 
-int k = n;
-
- if (n>100)  
+while(n>999)   
 {
-      k= n%10;
-   Console.Write($"{k} ");
+n = n/10;
 }
-else if (n<100)
-   {
-      k=-1;
-      Console.Write("Нет цифры");
 
+int k = n%10; 
+if (n<99)
+{
+     Console.Write("Нет цифры !");
+}
+   else
+   {
+  Console.Write($"{k}"!);
    }
 
+     
+      
 
 
 
