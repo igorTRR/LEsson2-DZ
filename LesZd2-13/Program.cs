@@ -7,16 +7,34 @@
 Console.Clear();
 Console.Write("Введите число: ");
 int n = int.Parse(Console.ReadLine()!);
+
 int k = n;
 
-if (n > 100) k = n%10;
+ if (n>100)  
 {
-     Console.Write($"{k} ");  
-} if
-    else
-{ 
-
+      k= n%10;
+   Console.Write($"{k} ");
 }
+else if (n<100)
+   {
+      k=-1;
+      Console.Write("Нет цифры");
+
+   }
+
+
+
+
+ 
+
+
+   
+    
+  
+
+
+
+
 
 
     
