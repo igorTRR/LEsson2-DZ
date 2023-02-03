@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Les3dZ-019/1.0.0": {
+        "runtime": {
+          "Les3dZ-019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les3dZ-019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
