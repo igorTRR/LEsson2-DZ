@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\bin\Debug\net6.0\Les3dZ-21.exe
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\bin\Debug\net6.0\Les3dZ-21.deps.json
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\bin\Debug\net6.0\Les3dZ-21.runtimeconfig.json
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\bin\Debug\net6.0\Les3dZ-21.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\bin\Debug\net6.0\Les3dZ-21.pdb
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\refint\Les3dZ-21.dll
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.pdb
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\Les3dZ-21.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\LESSON 2 DZ\Les3dZ-21\obj\Debug\net6.0\ref\Les3dZ-21.dll
